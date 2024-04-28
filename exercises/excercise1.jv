@@ -16,7 +16,8 @@ pipeline AirportsPipeline {
 
 	
 	block AirportsCSVInterpreter oftype CSVInterpreter {
-		delimiter: ';';
+		enclosing: '';
+        delimiter: ";";
 	}
 
 	
