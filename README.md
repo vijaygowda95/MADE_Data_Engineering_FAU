@@ -1,7 +1,6 @@
 # Exercise Badges
 
-![](https://byob.yarr.is/jvalue/made-template/score_ex1) ![](https://byob.yarr.is/jvalue/made-template/score_ex2) ![](https://byob.yarr.is/jvalue/made-template/score_ex3) ![](https://byob.yarr.is/jvalue/made-template/score_ex4) ![](https://byob.yarr.is/jvalue/made-template/score_ex5)
-
+![](https://byob.yarr.is/vijaygowda95/MADE_Data_Engineering_FAU/score_ex1) ![](https://byob.yarr.is/vijaygowda95/MADE_Data_Engineering_FAU/score_ex2) ![](https://byob.yarr.is/vijaygowda95/MADE_Data_Engineering_FAU/score_ex3) ![](https://byob.yarr.is/vijaygowda95/MADE_Data_Engineering_FAU/score_ex4) ![](https://byob.yarr.is/vijaygowda95/MADE_Data_Engineering_FAU/score_ex5)
 # Methods of Advanced Data Engineering Template Project
 
 This template project provides some structure for your open data project in the MADE module at FAU.
